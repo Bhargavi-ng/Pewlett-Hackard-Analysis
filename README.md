@@ -1,7 +1,22 @@
 # Pewlett-Hackard-Analysis
 
-two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, you’ll write a report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
+## Overview of the analysis:
+The purpose of this project is to prepare for Pewlett-Hackard's "silver tsunami" - current employees reaching retirement age. The two assignments that need to be completed as part of the challenge are: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 
-Deliverable 1: The Number of Retiring Employees by Title
-Deliverable 2: The Employees Eligible for the Mentorship Program
-Deliverable 3: A written report on the employee database analysis (README.md)
+## Results:
+Below is the ERD diagram used for this project.
+![Employee Database ERD diagram](Pewlett-Hackard-Analysis/Pewlett-Hackard Analysis Folder/Resources/EmployeeDB.png)
+
+### Deliverable 1: Determine the number of retiring employees per title
+
+
+
+## Resources:
+Data sources: 
+1. [Employee Data](Pewlett-Hackard-Analysis/Pewlett-Hackard Analysis Folder/Data/employees.csv)
+2. [Departments Data](Pewlett-Hackard-Analysis/Pewlett-Hackard Analysis Folder/Data/departments.csv)
+3. [Departments Manager Data](Pewlett-Hackard-Analysis/Pewlett-Hackard Analysis Folder/Data/dept_manager.csv) 
+4. [Departments Employees Data](Pewlett-Hackard-Analysis/Pewlett-Hackard Analysis Folder/Data/dept_emp.csv) 
+5. [Employee Titles Data](Pewlett-Hackard-Analysis/Pewlett-Hackard Analysis Folder/Data/titles.csv) 
+6. [Employees Salaries Data](Pewlett-Hackard-Analysis/Pewlett-Hackard Analysis Folder/Data/salaries.csv) 
+Data Tools: PostgreSQL, pgAdmin
